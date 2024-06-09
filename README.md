@@ -9,11 +9,13 @@
 2-2. 다른 Repository들과의 차이는 연동 에러 해결 전 후로 구분할 수 있다.
 
 # Error History
-
-## Error-1 : git pull and push error (fixed)
+<details>
+    <summary>## Error-1 : git pull and push error (fixed)</summary>
 
 ### study 
-
+<details>
+    <summary> about Vscode-GitHub & Error-1 git pull and push </summary>
+ 
 [1)생활코딩 visual code로 다루는 git < 코드 시간여행의 원리](https://www.youtube.com/watch?v=yc0rxkt93MQ&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm&index=7)
 
 chrome bookmarked Jinie.sej@gmail.com Kung24/2024-1/디지털세미나1
@@ -23,8 +25,11 @@ chrome bookmarked Jinie.sej@gmail.com Kung24/2024-1/디지털세미나1
 chrome bookmarked Jinie.sej@gmail.com Kung24/2024-1/디지털세미나1
 
 [*3)jinie.sej ChGPT 서로 다른 로컬-원격 저장소 이력 병합 허용 < 에러 근본 해결*](https://chatgpt.com/share/188be603-932c-4679-910b-969db4126d8a)
+</details>
 
-#### Repository 병합 ( Error-1 git pull and push error)
+### code process
+<details>
+    <summary>Repository 병합 ( Error-1 git pull and push error)</summary>
 
 jinie_porjects 이전 repository에서 발생한 push 문제 (git pull 이후에 git push해도 계속해서 git pull을 먼저하라는 오류)는 다음 코드로 해결.
 
@@ -68,3 +73,5 @@ git push -u origin main
 ```
 
 -> 병합을 허용
+
+</details>
