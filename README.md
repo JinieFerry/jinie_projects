@@ -1,8 +1,8 @@
 # Abstarct
 
-0. jinie_project_pc폴더는 Vscode Git Hub연동 에러를 피하기 위해 초기 단계로 돌아온 폴더, jinie_projects Repository와 연동되어있는 상태.
+  0. jinie_project_pc폴더는 Vscode Git Hub연동 에러를 피하기 위해 초기 단계로 돌아온 폴더, jinie_projects Repository와 연동되어있는 상태.
 
-1. instant_jinie_voice_4는 ~3와 같은 코드를 초석으로 수정해나가는 코드.
+  1. instant_jinie_voice_4는 ~3와 같은 코드를 초석으로 수정해나가는 코드.
 
 2-1. jinie_projects Repository는 instant_jinie_voice를 기반으로 하는 프로젝트를 전개하는 곳. 
 
