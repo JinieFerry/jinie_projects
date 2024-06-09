@@ -10,7 +10,7 @@
 
 # Error History
 <details>
-    <summary> *Error-1 : git pull and push error* (fixed)</summary>
+   ## <summary> Error-1 : git pull and push error (fixed)</summary>
 
 ### study 
 <details>
