@@ -17,6 +17,16 @@ ffmpeg , ffplay , ffprobe를 다운받아야 음성출력 실행
 
 # Process
 
+1] first commit and push
+
+1.원격저장소 지역저장소 동기화
+```vscode
+git clone https://github.com/JinieFerry/jinie_projects.git .
+```
+-> . means 현재 디렉토리
+
+2]during process
+
 0.check the changes
 
     ```vscode
