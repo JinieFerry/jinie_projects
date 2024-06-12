@@ -16,27 +16,37 @@ ffmpeg , ffplay , ffprobe를 다운받아야 음성출력 실행
    ## <summary> Error-1 : git pull and push error (fixed)</summary>
 
 # Process
-1. commit and push for your changes
+
+0.check the changes
+
+    ```vscode
+   git diff
+   ```
+2. commit and push for your changes
+
    ```vcode
      git remote add origin https://github.com/JinieFerry/jinie_projects.git
    ```
-   
-->  git remote add origin https://github.com/username/repository.git
 
-2. add files and commit
+   ->  git remote add origin https://github.com/username/repository.git
+
+3. add files and commit
+4. 
    ```vscode
    git add .
    git commit -m "Your commit message"
    ```
 
-3. Push master or main
+5. Push master or main
    
 3-1. push master (depense on your branch)
+
    ```vscode
    git push -u origin master
    ```
 
 3-2.push main (depense on you branch) 
+git 
    ```vscode
    git push -u origin main
    ```
