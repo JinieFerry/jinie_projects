@@ -18,8 +18,10 @@ ffmpeg , ffplay , ffprobe를 다운받아야 음성출력 실행
 # Process
 1. commit and push for your changes
    ```vcode
-   git remote add origin https://github.com/username/repository.git
+     git remote add origin https://github.com/JinieFerry/jinie_projects.git
    ```
+   
+->  git remote add origin https://github.com/username/repository.git
 
 2. add files and commit
    ```vscode
