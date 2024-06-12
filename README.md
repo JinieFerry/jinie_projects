@@ -20,33 +20,33 @@ ffmpeg , ffplay , ffprobe를 다운받아야 음성출력 실행
 0.check the changes
 
     ```vscode
-   git diff
-   ```
+    git diff
+    ```
 2. commit and push for your changes
 
    ```vcode
-     git remote add origin https://github.com/JinieFerry/jinie_projects.git
+   git remote add origin https://github.com/JinieFerry/jinie_projects.git
    ```
 
    ->  git remote add origin https://github.com/username/repository.git
 
 3. add files and commit
-4. 
+    
    ```vscode
    git add .
    git commit -m "Your commit message"
    ```
 
-5. Push master or main
+4. Push master or main
    
-3-1. push master (depense on your branch)
+4-1. push master (depense on your branch)
 
    ```vscode
    git push -u origin master
    ```
 
-3-2.push main (depense on you branch) 
-git 
+4-2.push main (depense on you branch) 
+
    ```vscode
    git push -u origin main
    ```
