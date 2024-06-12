@@ -1,4 +1,6 @@
--#copy from instant_jinie_voice_4.py, edit about user text input font, size, input text color
+
+#secodn commit testing
+# #copy from instant_jinie_voice_4.py, edit about user text input font, size, input text color
 # Import necessary modules
 from tkinter import Tk, Canvas, Text, Button, PhotoImage, font
 from elevenlabs import play
